@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 
   let oncli_event=()=>{
-    console.log("CLICK IS TRIGGERE working")
+    console.log("CLICK IS TRIGGERE working main")
   }
 
   let return_the_text =()=>{
